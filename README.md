@@ -1,7 +1,8 @@
 # Big_Data_Analytics
 Curriculum Work
 
-This project is created as per the curriculum requirement for the module Big Data Analytics: This project uses dataset from data.gov.ie.
+This project is created as per the curriculum requirement for the module Big Data Analytics: This project uses the dataset 'World Food Facts' from the public repository Kaggle.
+link:https://www.kaggle.com/openfoodfacts/world-food-facts
 
 All analytics and Machine learning techniques are implemnted in a single python Notebook using pySpark and was deployed in databricks.
 
